@@ -1,0 +1,24 @@
+.program-details {
+    padding: 20px;
+}
+
+.track-list {
+    list-style: none;
+    padding: 0;
+}
+
+.track-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.audio-player {
+    margin-top: 20px;
+}
+
+.audio-player h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
